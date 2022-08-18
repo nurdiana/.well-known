@@ -34,5 +34,17 @@
         "15:D7:B6:42:42:BD:7E:D9:9D:BA:73:24:74:8B:E7:A7:99:2A:72:6F:66:71:21:5F:71:B6:0F:CF:E1:EA:29:2E"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "co.id.bni.agen46",
+      "sha256_cert_fingerprints": [
+        "A9:F6:2F:48:E1:A9:83:77:66:1E:94:AF:F2:7D:4B:F2:68:05:0F:D7:58:F8:12:82:2A:21:19:6D:1C:B8:18:EB"
+      ]
+    }
   }
 ]
