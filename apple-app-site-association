@@ -9,6 +9,14 @@
             "/": "*"
           }
         ]
+      },
+      {
+        "appID": "VZAW594BR5.id.co.bni.agen46",
+        "components": [
+          {
+            "/": "*"
+          }
+        ]
       }
     ]
   }
