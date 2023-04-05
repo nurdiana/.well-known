@@ -115,6 +115,18 @@
       "namespace": "android_app",
       "package_name": "id.co.bni.newagenbni46",
       "sha256_cert_fingerprints": [
+        "B8:86:D3:9E:3E:73:60:6B:E2:3F:22:85:6E:11:AE:FB:54:1E:EE:C7:6E:E4:08:21:6D:D1:68:E3:AE:40:F0:B4"
+      ]
+    }
+  },
+{
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46",
+      "sha256_cert_fingerprints": [
         "DC:35:5F:B7:34:F7:C1:BC:F9:DB:05:99:DD:64:E0:60:6A:C1:BF:04:44:27:03:51:A1:C7:AE:74:57:B5:EC:00"
       ]
     }
