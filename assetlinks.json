@@ -166,5 +166,17 @@
         "89:4F:6D:1C:B7:1D:F7:DE:46:64:D0:64:4C:44:61:AD:3E:A4:CC:E6:F5:B8:F9:D5:22:29:5B:7C:CA:AD:2E:8A"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "id.co.bni.newagenbni46stg",
+      "sha256_cert_fingerprints": [
+        "15:D7:B6:42:42:BD:7E:D9:9D:BA:73:24:74:8B:E7:A7:99:2A:72:6F:66:71:21:5F:71:B6:0F:CF:E1:EA:29:2E"
+      ]
+    }
   }
 ]
